@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>25bd90060f39ea0012e4348ce1050ed8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_casus_edd_prog_edd_student">
+    <x_casus_edd_prog_edd_student action="INSERT_OR_UPDATE">
+        <city>Elk Grove</city>
+        <cohort>3</cohort>
+        <email_2>lundoncj@yahoo.com; lundoncj@gmail.com</email_2>
+        <employer/>
+        <gender>Male</gender>
+        <job_title/>
+        <phone_1>916-479-1759</phone_1>
+        <phone_2>916-928-5200</phone_2>
+        <saclink_user/>
+        <specialization>CCA</specialization>
+        <state>CA</state>
+        <street_address>8231 Crystal Walk Circle</street_address>
+        <sys_created_by>kristi.garrett</sys_created_by>
+        <sys_created_on>2016-09-12 16:59:04</sys_created_on>
+        <sys_id>25bd90060f39ea0012e4348ce1050ed8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>kristi.garrett</sys_updated_by>
+        <sys_updated_on>2016-09-12 21:05:09</sys_updated_on>
+        <u_glide_date_2/>
+        <u_string_2>Lundon</u_string_2>
+        <u_string_3>Jackson</u_string_3>
+        <u_string_4>2012</u_string_4>
+        <u_string_5/>
+        <work_notes/>
+        <zip>95758</zip>
+    </x_casus_edd_prog_edd_student>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>longlim</sys_created_by>
+        <sys_created_on>2017-01-09 02:39:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f51e8ec40f50b20012e4348ce1050e08</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Created 2016-09-12 09:59:04</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_metadata_link_f51e8ec40f50b20012e4348ce1050e08</sys_update_name>
+        <sys_updated_by>longlim</sys_updated_by>
+        <sys_updated_on>2017-01-09 03:15:01</sys_updated_on>
+        <tablename>x_casus_edd_prog_edd_student</tablename>
+    </sys_metadata_link>
+</record_update>

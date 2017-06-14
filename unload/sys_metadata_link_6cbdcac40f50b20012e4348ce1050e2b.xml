@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>ca2de3ca0ffb260012e4348ce1050ed7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_casus_edd_prog_edd_prospect">
+    <x_casus_edd_prog_edd_prospect action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address/>
+        <city/>
+        <email>k.anumudu@gmail.com</email>
+        <first_name>Kimberly</first_name>
+        <last_name>Anumudu</last_name>
+        <phone>714-686-2901</phone>
+        <question_1>Through your website</question_1>
+        <specialization>PK-12</specialization>
+        <state/>
+        <status>Website Inquiry</status>
+        <sys_created_by>kristi.garrett</sys_created_by>
+        <sys_created_on>2016-12-21 18:11:36</sys_created_on>
+        <sys_id>ca2de3ca0ffb260012e4348ce1050ed7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kristi.garrett</sys_updated_by>
+        <sys_updated_on>2016-12-21 18:11:36</sys_updated_on>
+        <u_string_1/>
+        <work_notes/>
+        <zip/>
+    </x_casus_edd_prog_edd_prospect>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>longlim</sys_created_by>
+        <sys_created_on>2017-01-09 02:37:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6cbdcac40f50b20012e4348ce1050e2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Created 2016-12-21 10:11:36</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_metadata_link_6cbdcac40f50b20012e4348ce1050e2b</sys_update_name>
+        <sys_updated_by>longlim</sys_updated_by>
+        <sys_updated_on>2017-01-09 03:15:20</sys_updated_on>
+        <tablename>x_casus_edd_prog_edd_prospect</tablename>
+    </sys_metadata_link>
+</record_update>

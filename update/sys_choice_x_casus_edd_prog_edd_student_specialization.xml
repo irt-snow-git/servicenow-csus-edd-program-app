@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="specialization" table="x_casus_edd_prog_edd_student" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P-12</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>0</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>426462630f19e20012e4348ce1050e7c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-28 22:24:10</sys_updated_on>
+            <value>P-12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>P-12F</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>0</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ca6462630f19e20012e4348ce1050e7b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:24:03</sys_updated_on>
+            <value>P-12F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CommCollege</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>1</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>466462630f19e20012e4348ce1050e7c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-28 22:24:10</sys_updated_on>
+            <value>CC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>2</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4a6462630f19e20012e4348ce1050e7d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-28 22:24:10</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>CCF</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>3</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4a6462630f19e20012e4348ce1050e7c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:24:22</sys_updated_on>
+            <value>CCF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Pol</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>4</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4e6462630f19e20012e4348ce1050e7c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:26:20</sys_updated_on>
+            <value>Pol</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>UF</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>5</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>426462630f19e20012e4348ce1050e7d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:25:00</sys_updated_on>
+            <value>UF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>UA</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sequence>6</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>466462630f19e20012e4348ce1050e7d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:25:12</sys_updated_on>
+            <value>UA</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>specialization</element>
+            <name>x_casus_edd_prog_edd_student</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:07:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8e6462630f19e20012e4348ce1050e7b</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_name>specialization</sys_name>
+            <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+            <sys_update_name>sys_choice_x_casus_edd_prog_edd_student_specialization</sys_update_name>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-09-12 21:26:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

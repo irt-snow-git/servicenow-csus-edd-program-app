@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>32285ac92b31e6009ecc78cef6da158c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_casus_edd_prog_edd_student">
+    <x_casus_edd_prog_edd_student action="INSERT_OR_UPDATE">
+        <city/>
+        <cohort>10</cohort>
+        <email_2>ayub_mellow@hotmail.com</email_2>
+        <employer/>
+        <gender>Male</gender>
+        <job_title/>
+        <phone_1>916/992-3022</phone_1>
+        <phone_2/>
+        <saclink_user/>
+        <specialization/>
+        <state/>
+        <street_address/>
+        <sys_created_by>kristi.garrett</sys_created_by>
+        <sys_created_on>2016-09-09 23:20:10</sys_created_on>
+        <sys_id>32285ac92b31e6009ecc78cef6da158c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kristi.garrett</sys_updated_by>
+        <sys_updated_on>2016-09-09 23:20:10</sys_updated_on>
+        <u_glide_date_2/>
+        <u_string_2>Zeeshan</u_string_2>
+        <u_string_3>Ayub</u_string_3>
+        <u_string_4/>
+        <u_string_5/>
+        <work_notes/>
+        <zip/>
+    </x_casus_edd_prog_edd_student>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>longlim</sys_created_by>
+        <sys_created_on>2017-01-09 02:39:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>161e8ec40f50b20012e4348ce1050e1b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Created 2016-09-09 16:20:10</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_metadata_link_161e8ec40f50b20012e4348ce1050e1b</sys_update_name>
+        <sys_updated_by>longlim</sys_updated_by>
+        <sys_updated_on>2017-01-09 03:15:01</sys_updated_on>
+        <tablename>x_casus_edd_prog_edd_student</tablename>
+    </sys_metadata_link>
+</record_update>

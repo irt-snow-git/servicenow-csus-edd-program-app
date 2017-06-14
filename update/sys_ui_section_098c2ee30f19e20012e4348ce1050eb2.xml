@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="098c2ee30f19e20012e4348ce1050eb2" sys_domain="global" table="x_casus_edd_prog_edd_faculty" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saclink_user</element>
+            <position>0</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>f7cb02c40f50b20012e4348ce1050e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>1</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>7bcb02c40f50b20012e4348ce1050e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>2</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>fbcb02c40f50b20012e4348ce1050e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>3</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>7fcb02c40f50b20012e4348ce1050e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_address</element>
+            <position>4</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>ffcb02c40f50b20012e4348ce1050e05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>5</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>73cb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>f3cb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>7</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>77cb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>f7cb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saclink_user.phone</element>
+            <position>9</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>7bcb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_2</element>
+            <position>10</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>fbcb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saclink_user.email</element>
+            <position>11</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>7fcb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_2</element>
+            <position>12</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>ffcb02c40f50b20012e4348ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saclink_user.title</element>
+            <position>13</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>73cb02c40f50b20012e4348ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title_2</element>
+            <position>14</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>f3cb02c40f50b20012e4348ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saclink_user.department</element>
+            <position>15</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>77cb02c40f50b20012e4348ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>16</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>f7cb02c40f50b20012e4348ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>course_taught</element>
+            <position>17</position>
+            <sys_created_by>longlim</sys_created_by>
+            <sys_created_on>2017-01-09 02:29:13</sys_created_on>
+            <sys_id>7bcb02c40f50b20012e4348ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_casus_edd_prog_edd_faculty" sys_domain="global" view="Default view">098c2ee30f19e20012e4348ce1050eb2</sys_ui_section>
+            <sys_updated_by>longlim</sys_updated_by>
+            <sys_updated_on>2017-01-09 02:29:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_casus_edd_prog_edd_faculty</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-23 22:42:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>098c2ee30f19e20012e4348ce1050eb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_casus_edd_prog_edd_faculty</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+            <sys_update_name>sys_ui_section_098c2ee30f19e20012e4348ce1050eb2</sys_update_name>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-23 22:42:30</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>f9f74a440f50b20012e4348ce1050e06</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_casus_edd_prog_edd_faculty">
+    <x_casus_edd_prog_edd_faculty action="INSERT_OR_UPDATE">
+        <city>Sacramento</city>
+        <course_taught/>
+        <email_2/>
+        <gender>Male</gender>
+        <phone_2/>
+        <saclink_user display_value="Long Lim">556a595030e0e400edaea43dafbaab53</saclink_user>
+        <state>CA</state>
+        <street_address>6000 J Street</street_address>
+        <sys_created_by>kristi.garrett</sys_created_by>
+        <sys_created_on>2017-01-09 02:16:11</sys_created_on>
+        <sys_id>f9f74a440f50b20012e4348ce1050e06</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>kristi.garrett</sys_updated_by>
+        <sys_updated_on>2017-01-09 02:17:40</sys_updated_on>
+        <title_2/>
+        <u_choice_1>Choice 1</u_choice_1>
+        <u_string_1>Long</u_string_1>
+        <u_string_2>Lim</u_string_2>
+        <work_notes/>
+        <zip>95819</zip>
+    </x_casus_edd_prog_edd_faculty>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>longlim</sys_created_by>
+        <sys_created_on>2017-01-09 02:38:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>990e0ec40f50b20012e4348ce1050ef9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Created 2017-01-08 18:16:11</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_metadata_link_990e0ec40f50b20012e4348ce1050ef9</sys_update_name>
+        <sys_updated_by>longlim</sys_updated_by>
+        <sys_updated_on>2017-01-09 03:15:11</sys_updated_on>
+        <tablename>x_casus_edd_prog_edd_faculty</tablename>
+    </sys_metadata_link>
+</record_update>

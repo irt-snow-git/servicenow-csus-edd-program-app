@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="EDD Student" max_length="40" name="x_casus_edd_prog_edd_student" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element choice="1" label="Cohort" max_length="40" name="cohort" type="choice">
+            <choice>
+                <element label="1" sequence="0" value="1"/>
+                <element label="2" sequence="1" value="2"/>
+                <element label="3" sequence="2" value="3"/>
+                <element label="4" sequence="3" value="4"/>
+                <element label="5" sequence="4" value="5"/>
+                <element label="6" sequence="5" value="6"/>
+                <element label="7" sequence="6" value="7"/>
+                <element label="8" sequence="7" value="8"/>
+                <element label="9" sequence="8" value="9"/>
+                <element label="10" sequence="9" value="10"/>
+                <element label="11" sequence="10" value="11"/>
+                <element label="12" sequence="11" value="12"/>
+                <element label="13" sequence="12" value="13"/>
+                <element label="14" sequence="13" value="14"/>
+                <element label="15" sequence="14" value="15"/>
+            </choice>
+        </element>
+        <element label="Email 2" max_length="40" name="email_2" type="string"/>
+        <element label="Employer" max_length="40" name="employer" type="string"/>
+        <element choice="3" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element label="Male" sequence="0" value="Male"/>
+                <element label="Female" sequence="1" value="Female"/>
+            </choice>
+        </element>
+        <element label="Job title" max_length="40" name="job_title" type="string"/>
+        <element label="Phone 1" max_length="40" name="phone_1" type="string"/>
+        <element label="Phone 2" max_length="40" name="phone_2" type="string"/>
+        <element label="Saclink user" max_length="32" name="saclink_user" reference="sys_user" reference_qual="active=true^u_student=true^ORu_student_applicant=true^EQ" reference_qual_condition="active=true^u_student=true^ORu_student_applicant=true^EQ" type="reference"/>
+        <element choice="1" label="Specialization" max_length="40" name="specialization" type="choice">
+            <choice>
+                <element label="P-12" sequence="0" value="P-12"/>
+                <element label="CommCollege" sequence="1" value="CC"/>
+                <element label="Other" sequence="2" value="Other"/>
+            </choice>
+        </element>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Street address" max_length="40" name="street_address" type="string"/>
+        <element label="Graduation" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="Month/Year" label="Graduation" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email 1" max_length="40" name="u_string_5" type="string"/>
+        <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Zip" max_length="40" name="zip" type="string"/>
+        <index name="index">
+            <element name="saclink_user"/>
+        </index>
+    </element>
+</database>

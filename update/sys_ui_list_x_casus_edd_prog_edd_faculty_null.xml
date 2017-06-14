@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_casus_edd_prog_edd_faculty" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>1b1d6e732b5522009ecc78cef6da150c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>course_taught</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>9b1d6e732b5522009ecc78cef6da150c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email_2</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>1f1d6e732b5522009ecc78cef6da150c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gender</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>9f1d6e732b5522009ecc78cef6da150c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone_2</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>131d6e732b5522009ecc78cef6da150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>saclink_user</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>931d6e732b5522009ecc78cef6da150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>171d6e732b5522009ecc78cef6da150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>street_address</element>
+            <list_id display_value="x_casus_edd_prog_edd_faculty" element="NULL" name="x_casus_edd_prog_edd_faculty" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d31d6e732b5522009ecc78cef6da150c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_id>971d6e732b5522009ecc78cef6da150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_casus_edd_prog_edd_faculty</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>kristi.garrett</sys_created_by>
+            <sys_created_on>2016-08-24 17:23:35</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>d31d6e732b5522009ecc78cef6da150c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_casus_edd_prog_edd_faculty</sys_name>
+            <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+            <sys_update_name>sys_ui_list_x_casus_edd_prog_edd_faculty_null</sys_update_name>
+            <sys_updated_by>kristi.garrett</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:23:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

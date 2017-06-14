@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="EDD Faculty" max_length="40" name="x_casus_edd_prog_edd_faculty" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Course taught" max_length="40" name="course_taught" type="string"/>
+        <element label="Email 2" max_length="40" name="email_2" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element label="Male" sequence="0" value="Male"/>
+                <element label="Female" sequence="1" value="Female"/>
+            </choice>
+        </element>
+        <element label="Phone 2" max_length="40" name="phone_2" type="string"/>
+        <element label="SacLink account" max_length="32" name="saclink_user" reference="sys_user" reference_qual="active=true^u_faculty=true^ORu_staff=true^EQ" reference_qual_condition="active=true^u_faculty=true^ORu_staff=true^EQ" type="reference"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Street address" max_length="40" name="street_address" type="string"/>
+        <element label="Title 2" max_length="40" name="title_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Choice 1" label="Faculty type" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Core" sequence="0" value="Core"/>
+                <element label="Standing" sequence="1" value="Standing"/>
+                <element label="Adjunct" sequence="2" value="Adjunct"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="u_string_2" type="string"/>
+        <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Zip" max_length="40" name="zip" type="string"/>
+        <index name="index">
+            <element name="saclink_user"/>
+        </index>
+    </element>
+</database>

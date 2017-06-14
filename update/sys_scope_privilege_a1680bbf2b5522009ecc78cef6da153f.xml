@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>kristi.garrett</sys_created_by>
+        <sys_created_on>2016-08-24 19:22:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a1680bbf2b5522009ecc78cef6da153f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysUserList</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_scope_privilege_a1680bbf2b5522009ecc78cef6da153f</sys_update_name>
+        <sys_updated_by>kristi.garrett</sys_updated_by>
+        <sys_updated_on>2016-08-24 19:22:47</sys_updated_on>
+        <target_name>SysUserList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

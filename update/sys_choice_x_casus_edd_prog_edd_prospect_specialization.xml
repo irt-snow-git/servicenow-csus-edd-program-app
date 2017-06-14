@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="specialization" table="x_casus_edd_prog_edd_prospect" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK-12</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>0</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a03a133b2b9522009ecc78cef6da15e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+            <value>PK-12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CC</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>1</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>283a133b2b9522009ecc78cef6da15e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+            <value>CC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>University</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>2</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2c3a133b2b9522009ecc78cef6da15e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+            <value>University</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Policy</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>3</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>203a133b2b9522009ecc78cef6da15e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+            <value>Policy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>4</sequence>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>243a133b2b9522009ecc78cef6da15e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>specialization</element>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>cy542</sys_created_by>
+            <sys_created_on>2016-08-24 20:40:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>643a133b2b9522009ecc78cef6da15e1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>specialization</sys_name>
+            <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+            <sys_update_name>sys_choice_x_casus_edd_prog_edd_prospect_specialization</sys_update_name>
+            <sys_updated_by>cy542</sys_updated_by>
+            <sys_updated_on>2016-08-24 20:40:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

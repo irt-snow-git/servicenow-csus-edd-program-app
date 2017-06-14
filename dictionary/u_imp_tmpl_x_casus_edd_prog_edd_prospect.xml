@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Casus Edd Prog Edd Prospect" max_length="40" name="u_imp_tmpl_x_casus_edd_prog_edd_prospect" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=Email,edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employer" max_length="40" name="u_employer" type="string"/>
+        <element attributes="import_attribute_name=First name,edge_encryption_enabled=true" label="First name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How did you hear about us?" max_length="40" name="u_how_did_you_hear_about_us_" type="string"/>
+        <element attributes="import_attribute_name=How do you hear about us?,edge_encryption_enabled=true" label="How do you hear about us?" max_length="40" name="u_how_do_you_hear_about_us_" type="string"/>
+        <element attributes="import_attribute_name=Last name,edge_encryption_enabled=true" label="Last name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="import_attribute_name=Phone,edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=Specialization,edge_encryption_enabled=true" label="Specialization" max_length="40" name="u_specialization" type="string"/>
+        <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Street Address,edge_encryption_enabled=true" label="Street Address" max_length="40" name="u_street_address" type="string"/>
+        <element attributes="import_attribute_name=Zip,edge_encryption_enabled=true" label="Zip" max_length="40" name="u_zip" type="string"/>
+    </element>
+</database>

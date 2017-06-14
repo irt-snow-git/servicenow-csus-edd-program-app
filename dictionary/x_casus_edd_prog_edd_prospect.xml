@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="hasLabels=true,email_client=true" audit="true" label="EDD Prospect" max_length="40" name="x_casus_edd_prog_edd_prospect" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Street Address" max_length="40" name="address" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="Last name" max_length="40" name="last_name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="string"/>
+        <element choice="1" label="How did you hear about us?" max_length="40" name="question_1" type="choice">
+            <choice>
+                <element label="Through your website" sequence="0" value="Through your website"/>
+                <element label="Email from you" sequence="1" value="Email from you"/>
+                <element label="Google Search" sequence="2" value="Google Search"/>
+                <element label="Facebook" sequence="3" value="Facebook"/>
+                <element label="Twitter" sequence="4" value="Twitter"/>
+                <element label="LinkedIn" sequence="5" value="LinkedIn"/>
+                <element label="Capital Public Radio" sequence="6" value="Capital Public Radio"/>
+                <element label="Sac State student/alumni/faculty" sequence="7" value="Sac State student/alumni/faculty"/>
+                <element label="Friend or colleague" sequence="8" value="Friend or colleague"/>
+                <element label="Visit to Sac State" sequence="9" value="Visit to Sac State"/>
+                <element label="Other" sequence="10" value="Other"/>
+            </choice>
+        </element>
+        <element choice="1" default="PK-12" label="Specialization" max_length="40" name="specialization" type="choice">
+            <choice>
+                <element label="PK-12" sequence="0" value="PK-12"/>
+                <element label="CC" sequence="1" value="CC"/>
+                <element label="University" sequence="2" value="University"/>
+                <element label="Policy" sequence="3" value="Policy"/>
+                <element label="Other" sequence="4" value="Other"/>
+            </choice>
+        </element>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="RSVP'd" sequence="0" value="RSVP'd"/>
+                <element label="Called office" sequence="1" value="Called office"/>
+                <element label="Attended Info session" sequence="2" value="Attended Info session"/>
+                <element label="Hot prospect" sequence="3" value="Hot prospect"/>
+                <element label="Application in progress" sequence="4" value="Application in progress"/>
+                <element label="Admitted" sequence="5" value="Admitted"/>
+                <element label="Enrolled" sequence="6" value="Enrolled"/>
+                <element label="Enrolled elsewhere" sequence="7" value="Enrolled elsewhere"/>
+                <element label="Website Inquiry" sequence="8" value="Website Inquiry"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Employer" max_length="40" name="u_string_1" type="string"/>
+        <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Zip" max_length="40" name="zip" type="string"/>
+    </element>
+</database>
