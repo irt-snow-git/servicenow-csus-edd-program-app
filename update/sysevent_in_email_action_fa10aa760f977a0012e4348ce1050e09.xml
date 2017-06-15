@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script>email.from == 'noreply@123contactform.io' || email.from == 'noreply@123contactform.com' || email.user == 'noreply@123contactform.com' || email.user == 'noreply@123contactform.io' || email.subject.includes(', heres the information you requested')</condition_script>
+        <description>Create new records in the EDD Prospects table when emails are sent from 'noreply@123contactform.io'.</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>New Prospect Email Tokenized</name>
+        <order>90</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[var eBody = email.body_text;
+// Tokenizing the body of email by the return-line character \n
+
+var tokens = eBody.split('\n');
+
+// User's Name
+var name = tokens[0];
+current.first_name = name.split(' ')[1];
+current.last_name = name.split(' ')[2];
+// Email Address
+var emailT = tokens[1];
+current.email = emailT.split(' ')[1];
+// Phone Number
+var phoneT = tokens[2];
+current.phone = phoneT.split(' ')[1];
+// How did you hear about us?
+var hear = tokens[3];
+current.question_1 = hear.split('? ')[1];
+// Optional Message
+
+var optMsg = tokens[4];
+current.work_notes = optMsg.split('message ')[1];
+
+current.insert();
+
+logger.logInfo("New Prospect Record Created in 'EDD Prospect' table.");
+]]></script>
+        <stop_processing>true</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>nicholasmyers</sys_created_by>
+        <sys_created_on>2017-06-15 20:10:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>fa10aa760f977a0012e4348ce1050e09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Prospect Email Tokenized</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sysevent_in_email_action_fa10aa760f977a0012e4348ce1050e09</sys_update_name>
+        <sys_updated_by>nicholasmyers</sys_updated_by>
+        <sys_updated_on>2017-06-15 20:10:09</sys_updated_on>
+        <table>x_casus_edd_prog_edd_prospect</table>
+        <template/>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>

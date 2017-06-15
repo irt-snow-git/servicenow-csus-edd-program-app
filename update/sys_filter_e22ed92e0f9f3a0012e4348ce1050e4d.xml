@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sys_user">nameSTARTSWITHam^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="am"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2017-06-14 20:42:59</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>gg622</sys_created_by>
+        <sys_created_on>2017-06-14 20:42:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>e22ed92e0f9f3a0012e4348ce1050e4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_filter_e22ed92e0f9f3a0012e4348ce1050e4d</sys_update_name>
+        <sys_updated_by>gg622</sys_updated_by>
+        <sys_updated_on>2017-06-14 20:42:59</sys_updated_on>
+        <table>sys_user</table>
+        <title>mobile</title>
+        <user display_value="Gregory Guzman">8142eaf50a0a3c9e01c438429dc13efa</user>
+    </sys_filter>
+</record_update>

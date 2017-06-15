@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>false</active>
+        <assignment_operator/>
+        <condition_script>email.from == 'noreply@123contactform.io' || email.from == 'noreply@123contactform.com' || email.user == 'noreply@123contactform.com'</condition_script>
+        <description>Create new records in the EDD Prospects table when emails are sent from 'noreply@123contactform.io'.</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>New Prospect Email NonTokenized</name>
+        <order>90</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[/* Assign email body fields to variables. */
+var name = email.body.name;
+var email = email.body.email;
+var phone = email.body.phone;
+var optMsg = email.body.optional_message;
+
+/* Get the user's first and last name for separate name fields. */
+var fieldResult = name.split(' ');
+if (fieldResult[0] != undefined) {
+	current.first_name = fieldResult[0];
+} else {
+	current.first_name = 'N/A';
+}
+if (fieldResult[1] != undefined) {
+	current.last_name = fieldResult[1];
+} else {
+	current.first_name = 'N/A';
+}
+/* Populate the email, phone number, and Optional Message fields. */
+if (email != undefined) {
+	current.email = email;
+} else {
+	current.email = 'N/A';
+}
+if (phone != undefined) {
+	current.phone = phone;
+} else {
+	current.phone = 'N/A';
+}
+if (optMsg != undefined) {
+	current.optional_message = optMsg;
+} else {
+	current.optional_message = 'N/A';
+}
+
+/* Based off the response in email, choose the appropriate option for the dropdown on the record. */
+var hear = email.body.how_did_you_hear_about_us;
+switch (hear) {
+	case 'Through your website':
+		current.question_1 = 'Through your website';
+		break;
+	case 'Email from you':
+		current.question_1 = 'Email from you';
+		break;
+	case 'Google search':
+		current.question_1 = 'Google search';
+		break;
+	case 'Facebook':
+		current.question_1 = 'Facebook';
+		break;
+	case 'Twitter':
+		current.question_1 = 'Twitter';
+		break;
+	case 'LinkedIn':
+		current.question_1 = 'LinkedIn';
+		break;
+	case 'Capital Public Radio':
+		current.question_1 = 'Capital Public Radio';
+		break;
+	case 'Sac State student/alumni/faculty': 
+		current.question_1 = 'Sac State student/alumni/faculty';
+		break;
+	case 'Friend or colleague':
+		current.question_1 = 'Friend or colleague';
+		break;
+	case 'Visit to Sac State':
+		current.question_1 = 'Visit to Sac State';
+		break;
+	case 'Other':
+		current.question_1 = 'Other';
+		break;
+	default: 
+		current.question_1 = 'Through your website';
+		break;
+}
+
+current.insert();]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>nicholasmyers</sys_created_by>
+        <sys_created_on>2017-06-15 20:11:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>99402e760f977a0012e4348ce1050e0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Prospect Email NonTokenized</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sysevent_in_email_action_99402e760f977a0012e4348ce1050e0e</sys_update_name>
+        <sys_updated_by>nicholasmyers</sys_updated_by>
+        <sys_updated_on>2017-06-15 20:11:07</sys_updated_on>
+        <table>x_casus_edd_prog_edd_prospect</table>
+        <template/>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>
