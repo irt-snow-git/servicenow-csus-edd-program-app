@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Marks prospect fields inactive after a prospect record is marked inactive</description>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Make fields ReadOnly on Inactivity</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //mark prospect fields readonly if a prospect record is inactive
+	if(g_form.getValue('active') == 'false') {
+		g_form.setReadonly('first_name',true);
+		g_form.setReadonly('last_name',true);
+		g_form.setReadonly('address',true);
+		g_form.setReadonly('city',true);
+		g_form.setReadonly('state',true);
+		g_form.setReadonly('zip',true);
+		g_form.setReadonly('email',true);
+		g_form.setReadonly('phone',true);
+		g_form.setReadonly('question_1',true); //How did you hear about us?
+		g_form.setReadonly('specialization',true);
+		g_form.setReadonly('u_string_1',true); //Employer
+		g_form.setReadonly('work_notes',true);
+		g_form.setReadonly('status',true);
+	}
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>nicholasmyers</sys_created_by>
+        <sys_created_on>2017-06-15 23:52:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ae42dbba6f9b7a00ad6cd4a21c3ee473</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Make fields ReadOnly on Inactivity</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_script_client_ae42dbba6f9b7a00ad6cd4a21c3ee473</sys_update_name>
+        <sys_updated_by>nicholasmyers</sys_updated_by>
+        <sys_updated_on>2017-06-15 23:56:02</sys_updated_on>
+        <table>x_casus_edd_prog_edd_prospect</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

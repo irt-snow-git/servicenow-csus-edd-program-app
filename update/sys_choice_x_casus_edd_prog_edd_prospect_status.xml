@@ -163,6 +163,42 @@
             <sys_updated_on>2016-10-28 22:26:21</sys_updated_on>
             <value>Website Inquiry</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nominated</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>9</sequence>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 16:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1ce02b9c6f6bfa00ad6cd4a21c3ee4a8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 16:43:46</sys_updated_on>
+            <value>Nominated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application withdrawn</label>
+            <language>en</language>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <sequence>10</sequence>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 16:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>17e06f1c6f6bfa00ad6cd4a21c3ee450</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 16:44:15</sys_updated_on>
+            <value>Application withdrawn</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>status</element>
             <name>x_casus_edd_prog_edd_prospect</name>
@@ -171,15 +207,15 @@
             <sys_created_on>2016-08-24 20:40:33</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>fc3a133b2b9522009ecc78cef6da15e2</sys_id>
-            <sys_mod_count>7</sys_mod_count>
+            <sys_mod_count>13</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
             <sys_update_name>sys_choice_x_casus_edd_prog_edd_prospect_status</sys_update_name>
-            <sys_updated_by>gg622</sys_updated_by>
-            <sys_updated_on>2016-10-28 22:26:21</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 16:44:15</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

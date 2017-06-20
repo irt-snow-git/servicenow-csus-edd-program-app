@@ -16,16 +16,29 @@
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 17:03:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bd65a3106fabfa00ad6cd4a21c3ee461</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_casus_edd_prog_edd_prospect" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">d06372772b5522009ecc78cef6da1522</sys_ui_form>
+            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 17:03:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
             <sys_created_by>cy542</sys_created_by>
             <sys_created_on>2016-08-24 17:50:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_id>e86372772b5522009ecc78cef6da1522</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_casus_edd_prog_edd_prospect" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">d06372772b5522009ecc78cef6da1522</sys_ui_form>
             <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">5c6372772b5522009ecc78cef6da1521</sys_ui_section>
-            <sys_updated_by>cy542</sys_updated_by>
-            <sys_updated_on>2016-08-24 17:50:58</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 17:03:12</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_casus_edd_prog_edd_prospect</name>

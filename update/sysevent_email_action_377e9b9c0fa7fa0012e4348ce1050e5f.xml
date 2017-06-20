@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <collection>x_casus_edd_prog_edd_prospect</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <description>Notify prospect when they submit a new application. </description>
+        <event_name>approval.cancelled</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from>edd@csus.edu</from>
+        <generation_type>engine</generation_type>
+        <group/>
+        <group_field/>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <list/>
+        <list_field/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="sacstate_logo.jpgx" alt="Sac State Logo" width="530" height="145" align="baseline" border="" hspace="" vspace="" /></p>
+<p><font size="3" face="helvetica">Greetings, ${first_name},</font><br /> <br /><font size="3" face="helvetica"> Thank you for inquiring about the Doctorate in Educational Leadership at Sacramento State.&nbsp; If you would like to pursue a leadership role in education, a government agency or nonprofits, or would like to help your business organization improve through teaching and learning, an Ed.D. may be for you.</font><br /> <br /><font size="3" face="helvetica"> <strong>What makes our program unique?</strong></font></p>
+<ul>
+<li><font size="3" face="helvetica">Face-to-face interaction with students and faculty</font></li>
+<li><font size="3" face="helvetica">Every-other-weekend classes</font></li>
+<li><font size="3" face="helvetica">Renowned faculty who want you to succeed</font></li>
+<li><font size="3" face="helvetica">Supportive cohort-based learning</font></li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/8WdlTx8f6Oc" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p>&nbsp;</p>
+<p><font size="3" face="arial,helvetica,sans-serif">We invite you to explore our website &ndash; <a href="http://www.csus.edu/edd">www.csus.edu/edd</a> &ndash; to learn more about our executive-style program designed for working professionals. Classes are held every other weekend, year-round, so that you can earn your degree in less than 36 months.</font><br /> <br /><font size="3" face="arial,helvetica,sans-serif"> The best way to get acquainted with our program is to join us at one of our <a href="http://bit.ly/SacStateEDD">monthly information sessions</a> on the Sacramento State campus. There you&rsquo;ll meet the program faculty, alumni and current students, who can answer your specific questions. Dates and locations are listed here: <a href="http://bit.ly/SacStateDoc">bit.ly/SacStateDoc</a>.</font><br /> <br /><font size="3" face="arial,helvetica,sans-serif"> Please call our office at 916-278-2282 if you have any questions, or email us at <a href="mailto:EDD@csus.edu">EDD@csus.edu</a>. We look forward to getting to know you better.</font></p>
+<p><font size="3" face="arial,helvetica,sans-serif">&nbsp;</font></p>
+<p><font size="3" face="arial,helvetica,sans-serif"><span style="font-size: 11.0pt; color: black;">Sacramento State Doctorate in Educational Leadership<br /></span>California State University, Sacramento</font><br /><font size="3" face="arial,helvetica,sans-serif">Eureka Hall 318</font><br /><font size="3" face="arial,helvetica,sans-serif">6000 J Street</font><br /><font size="3" face="arial,helvetica,sans-serif">Sacramento, CA 95819</font><br /><font size="3" face="arial,helvetica,sans-serif">T (916) 278-2282</font><br /><font size="3" face="arial,helvetica,sans-serif">F (916) 278-2281</font><br /><font size="3" face="arial,helvetica,sans-serif"><span style="font-size: 11.0pt; color: #0563c1;"><a href="http://www.csus.edu/edd">www.csus.edu/edd</a><a href="http://www.csus.edu/edd"><br /></a></span><span style="font-size: 11.0pt; color: black;">Connect with us on </span><a href="https://www.facebook.com/Sac-State-Doctorate-in-Educational-Leadership-236410397159/"><span style="font-size: 11.0pt; color: #0563c1;">Facebook</span></a><span style="font-size: 11.0pt; color: black;"> and </span><a href="https://twitter.com/SacStateEDD?ref_src=twsrc%5Etfw"><span style="font-size: 11.0pt; color: #0563c1;">Twitter</span></a><span style="font-size: 11.0pt; color: black;"> | &nbsp;</span><a href="https://sacstatedd.wordpress.com/"><span style="font-size: 11.0pt; color: #0563c1;">Sac StatEDD</span></a> blog</font></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>New EDD Prospect Submission</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to>edd@csus.edu</reply_to>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Here's what makes the Sacramento State Ed.D. unique</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>gg622</sys_created_by>
+        <sys_created_on>2017-06-20 17:04:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>377e9b9c0fa7fa0012e4348ce1050e5f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New EDD Prospect Submission</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sysevent_email_action_377e9b9c0fa7fa0012e4348ce1050e5f</sys_update_name>
+        <sys_updated_by>gg622</sys_updated_by>
+        <sys_updated_on>2017-06-20 17:24:22</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <user/>
+        <user_field/>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>
