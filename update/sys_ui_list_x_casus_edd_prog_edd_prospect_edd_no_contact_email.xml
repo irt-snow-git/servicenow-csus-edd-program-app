@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_casus_edd_prog_edd_prospect" version="2" view="edd_no_contact_email">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_casus_edd_prog_edd_prospect" element="NULL" name="x_casus_edd_prog_edd_prospect" parent="NULL" relationship="NULL" sys_domain="global" view="0fe7f8206f6ffa00ad6cd4a21c3ee489">c7e7f8206f6ffa00ad6cd4a21c3ee48a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 23:03:45</sys_created_on>
+            <sys_id>0fe7f8206f6ffa00ad6cd4a21c3ee48a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 23:03:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_casus_edd_prog_edd_prospect" element="NULL" name="x_casus_edd_prog_edd_prospect" parent="NULL" relationship="NULL" sys_domain="global" view="0fe7f8206f6ffa00ad6cd4a21c3ee489">c7e7f8206f6ffa00ad6cd4a21c3ee48a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 23:03:45</sys_created_on>
+            <sys_id>8fe7f8206f6ffa00ad6cd4a21c3ee48a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 23:03:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_casus_edd_prog_edd_prospect</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-06-20 23:03:45</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>c7e7f8206f6ffa00ad6cd4a21c3ee48a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_casus_edd_prog_edd_prospect</sys_name>
+            <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+            <sys_update_name>sys_ui_list_x_casus_edd_prog_edd_prospect_edd_no_contact_email</sys_update_name>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-06-20 23:03:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="EDD No Contact Email" name="edd_no_contact_email">0fe7f8206f6ffa00ad6cd4a21c3ee489</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

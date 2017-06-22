@@ -5,125 +5,41 @@
             <element>email_sent_ar_1</element>
             <position>0</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>0a65a3106fabfa00ad6cd4a21c3ee466</sys_id>
+            <sys_created_on>2017-06-22 16:34:47</sys_created_on>
+            <sys_id>b812b5056f6b3e00ad6cd4a21c3ee4ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_nonattend</element>
-            <position>1</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>8a65a3106fabfa00ad6cd4a21c3ee466</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_attended</element>
-            <position>2</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>0e65a3106fabfa00ad6cd4a21c3ee466</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_ar_2</element>
-            <position>3</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>8e65a3106fabfa00ad6cd4a21c3ee466</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
+            <sys_updated_on>2017-06-22 16:34:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>1</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>0265a3106fabfa00ad6cd4a21c3ee467</sys_id>
+            <sys_created_on>2017-06-22 16:34:47</sys_created_on>
+            <sys_id>3c12b5056f6b3e00ad6cd4a21c3ee4ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
+            <sys_updated_on>2017-06-22 16:34:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_deadline_1</element>
-            <position>5</position>
+            <element>email_sent_ar_2</element>
+            <position>2</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>8265a3106fabfa00ad6cd4a21c3ee467</sys_id>
+            <sys_created_on>2017-06-22 16:34:47</sys_created_on>
+            <sys_id>bc12b5056f6b3e00ad6cd4a21c3ee4ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_apply_now_1</element>
-            <position>6</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>0665a3106fabfa00ad6cd4a21c3ee467</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_deadline_2</element>
-            <position>7</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>8665a3106fabfa00ad6cd4a21c3ee467</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email_sent_apply_now_2</element>
-            <position>8</position>
-            <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-06-20 17:03:13</sys_created_on>
-            <sys_id>0a65a3106fabfa00ad6cd4a21c3ee467</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" Notifications Sent" display_value=" Notifications Sent" name="x_casus_edd_prog_edd_prospect" sys_domain="global" view="Default view">3965a3106fabfa00ad6cd4a21c3ee461</sys_ui_section>
-            <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-06-20 17:03:13</sys_updated_on>
+            <sys_updated_on>2017-06-22 16:34:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>false</active>
+        <api_name>x_casus_edd_prog.ProspectNotificationFlags</api_name>
+        <client_callable>true</client_callable>
+        <description>Script to update groups of prospect records to indicate that they have been notified, depending on their state in the application process.</description>
+        <name>ProspectNotificationFlags</name>
+        <script><![CDATA[var ProspectNotificationFlags = Class.create();
+ProspectNotificationFlags.prototype = {
+	
+	initialize : function() {
+		
+	},
+	
+	infoSessionAttenders : function(list) {
+		
+	},
+	
+	infoSessionNonAttenders : function(list) {
+		var listArray = g_list.getChecked().split(",");
+		var prospect = new GlideRecord('x_casus_edd_prog_edd_prospect');
+	
+		//get the selected record and update it
+		for(var i = 0; i < listArray.length; i++) {
+			prospect.get(listArray[i]);
+		
+			prospect.email_sent_nonattend = true;
+			prospect.update();
+		}
+		
+		gs.addInfoMessage(listArray.length + " prospect(s) updated.");
+	},
+	
+	autoResponseTwo : function(list) {
+		
+	},
+	
+	deadlineOne : function(list) {
+		
+	},
+	
+	deadlineTwo : function(list) {
+		
+	},
+	
+	applyOne : function(list) {
+		
+	},
+	
+	applyTwo : function(list) {
+		
+	},
+	
+    type: 'ProspectNotificationFlags'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>nicholasmyers</sys_created_by>
+        <sys_created_on>2017-06-21 23:07:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dfefb5340fe33e0012e4348ce1050e09</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ProspectNotificationFlags</sys_name>
+        <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
+        <sys_update_name>sys_script_include_dfefb5340fe33e0012e4348ce1050e09</sys_update_name>
+        <sys_updated_by>nicholasmyers</sys_updated_by>
+        <sys_updated_on>2017-06-22 16:33:35</sys_updated_on>
+    </sys_script_include>
+</record_update>
