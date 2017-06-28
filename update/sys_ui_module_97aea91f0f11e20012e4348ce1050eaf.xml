@@ -12,7 +12,7 @@
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>longlim</sys_created_by>
         <sys_created_on>2016-08-22 23:33:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>97aea91f0f11e20012e4348ce1050eaf</sys_id>
         <sys_mod_count>0</sys_mod_count>

@@ -42,7 +42,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>kristi.garrett</sys_created_by>
         <sys_created_on>2016-09-09 18:13:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>28f111cd2bbda6009ecc78cef6da155a</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_casus_edd_prog_edd_prospect.xls (Uploa</sys_name>

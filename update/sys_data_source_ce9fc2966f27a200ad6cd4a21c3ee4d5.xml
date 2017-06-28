@@ -42,7 +42,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>kristi.garrett</sys_created_by>
         <sys_created_on>2016-12-09 19:44:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ce9fc2966f27a200ad6cd4a21c3ee4d5</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_casus_edd_prog_edd_prospect-12-9.xls (</sys_name>

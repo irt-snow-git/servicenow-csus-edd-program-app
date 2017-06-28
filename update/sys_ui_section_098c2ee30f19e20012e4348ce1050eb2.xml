@@ -261,7 +261,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>cy542</sys_created_by>
             <sys_created_on>2016-08-23 22:42:30</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>098c2ee30f19e20012e4348ce1050eb2</sys_id>
             <sys_mod_count>0</sys_mod_count>

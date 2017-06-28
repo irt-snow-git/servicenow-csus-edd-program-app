@@ -51,7 +51,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>longlim</sys_created_by>
         <sys_created_on>2016-08-22 23:36:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0bfead5f0f11e20012e4348ce1050e35</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Street Address</sys_name>

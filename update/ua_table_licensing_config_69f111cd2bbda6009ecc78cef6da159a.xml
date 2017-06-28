@@ -9,7 +9,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>kristi.garrett</sys_created_by>
         <sys_created_on>2016-09-09 18:13:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>69f111cd2bbda6009ecc78cef6da159a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_imp_tmpl_x_casus_edd_prog_edd_prospect</sys_name>

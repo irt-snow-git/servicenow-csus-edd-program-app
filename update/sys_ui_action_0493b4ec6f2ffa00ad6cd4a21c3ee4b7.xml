@@ -41,7 +41,7 @@ function promptNonAttendeesUpdate(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-20 22:46:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0493b4ec6f2ffa00ad6cd4a21c3ee4b7</sys_id>
         <sys_mod_count>23</sys_mod_count>

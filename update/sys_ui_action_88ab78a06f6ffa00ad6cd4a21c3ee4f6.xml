@@ -51,7 +51,7 @@ function markProspectNotifiedApply2(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-20 23:21:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>88ab78a06f6ffa00ad6cd4a21c3ee4f6</sys_id>
         <sys_mod_count>12</sys_mod_count>

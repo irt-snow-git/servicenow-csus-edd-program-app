@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>longlim</sys_created_by>
         <sys_created_on>2016-08-22 23:34:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c2ceed5f0f11e20012e4348ce1050ed9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_casus_edd_prog_edd_prospect</sys_name>

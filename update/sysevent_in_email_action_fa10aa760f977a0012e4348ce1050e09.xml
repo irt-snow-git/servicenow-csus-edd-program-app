@@ -44,7 +44,7 @@ logger.logInfo("New Prospect Record Created in 'EDD Prospect' table.");
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-15 20:10:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>fa10aa760f977a0012e4348ce1050e09</sys_id>
         <sys_mod_count>0</sys_mod_count>

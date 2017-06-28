@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-01-25 23:47:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0bc9c5e10f6c3a0012e4348ce1050ef0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Submit an EDD Prospect Request</sys_name>

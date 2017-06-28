@@ -58,7 +58,7 @@ ProspectNotificationFlags.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-21 23:07:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>dfefb5340fe33e0012e4348ce1050e09</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>ProspectNotificationFlags</sys_name>

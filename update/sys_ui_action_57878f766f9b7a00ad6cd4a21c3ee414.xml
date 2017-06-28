@@ -50,7 +50,7 @@ action.setRedirectURL('/nav_to.do?uri=x_casus_edd_prog_edd_student.do?sys_id=' +
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-15 23:21:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>57878f766f9b7a00ad6cd4a21c3ee414</sys_id>
         <sys_mod_count>5</sys_mod_count>

@@ -35,7 +35,7 @@
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-01-30 21:15:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>ae04da8b0f2cba0012e4348ce1050eec</sys_id>
         <sys_mod_count>2</sys_mod_count>

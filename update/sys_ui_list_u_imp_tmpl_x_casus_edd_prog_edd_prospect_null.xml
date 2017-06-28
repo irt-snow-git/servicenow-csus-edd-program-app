@@ -164,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>kristi.garrett</sys_created_by>
             <sys_created_on>2017-01-05 22:12:12</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>e134f18b0f4c320012e4348ce1050ebb</sys_id>
             <sys_mod_count>0</sys_mod_count>

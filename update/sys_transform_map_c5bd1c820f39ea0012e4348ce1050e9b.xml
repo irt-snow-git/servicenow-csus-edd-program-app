@@ -13,7 +13,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>kristi.garrett</sys_created_by>
         <sys_created_on>2016-09-12 16:59:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c5bd1c820f39ea0012e4348ce1050e9b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_imp_tmpl_x_casus_edd_prog_edd_student</sys_name>

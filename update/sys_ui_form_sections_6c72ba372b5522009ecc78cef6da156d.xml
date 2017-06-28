@@ -33,7 +33,7 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>cy542</sys_created_by>
             <sys_created_on>2016-08-24 17:46:53</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>6c72ba372b5522009ecc78cef6da156d</sys_id>
             <sys_mod_count>0</sys_mod_count>

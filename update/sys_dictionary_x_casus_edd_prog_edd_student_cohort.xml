@@ -51,7 +51,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>cy542</sys_created_by>
         <sys_created_on>2016-08-23 22:03:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2053e62b2b99e2009ecc78cef6da154c</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Cohort</sys_name>
