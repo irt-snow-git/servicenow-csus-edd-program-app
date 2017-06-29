@@ -35,8 +35,7 @@
 <li><font size="3" face="helvetica">Renowned faculty who want you to succeed</font></li>
 <li><font size="3" face="helvetica">Supportive cohort-based learning</font></li>
 </ul>
-<p><iframe src="https://www.youtube.com/embed/8WdlTx8f6Oc" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
-<p>&nbsp;</p>
+<p>&nbsp;<a href="https://www.youtube.com/embed/8WdlTx8f6Oc" target="_blank"><img style="align: baseline;" title="" src="edd_youtube.PNGx" alt="Introduction to the Doctorate in Educational Leadership at Sac State" align="baseline" border="" hspace="" vspace="" /></a></p>
 <p><font size="3" face="arial,helvetica,sans-serif">We invite you to explore our website &ndash; <a href="http://www.csus.edu/edd">www.csus.edu/edd</a> &ndash; to learn more about our executive-style program designed for working professionals. Classes are held every other weekend, year-round, so that you can earn your degree in less than 36 months.</font><br /> <br /><font size="3" face="arial,helvetica,sans-serif"> The best way to get acquainted with our program is to join us at one of our <a href="http://bit.ly/SacStateEDD">monthly information sessions</a> on the Sacramento State campus. There you&rsquo;ll meet the program faculty, alumni and current students, who can answer your specific questions. Dates and locations are listed here: <a href="http://bit.ly/SacStateDoc">bit.ly/SacStateDoc</a>.</font><br /> <br /><font size="3" face="arial,helvetica,sans-serif"> Please call our office at 916-278-2282 if you have any questions, or email us at <a href="mailto:EDD@csus.edu">EDD@csus.edu</a>. We look forward to getting to know you better.</font></p>
 <p><font size="3" face="arial,helvetica,sans-serif">&nbsp;</font></p>
 <p><font size="3" face="arial,helvetica,sans-serif">Sacramento State Doctorate in Educational Leadership</font><br /> <font size="3" face="arial,helvetica,sans-serif">California State University, Sacramento</font><br /> <font size="3" face="arial,helvetica,sans-serif">Eureka Hall 318</font><font size="3" face="arial,helvetica,sans-serif">6000 J Street</font><br /><font size="3" face="arial,helvetica,sans-serif">Sacramento, CA 95819</font><br /><font size="3" face="arial,helvetica,sans-serif">T (916) 278-2282</font><br /><font size="3" face="arial,helvetica,sans-serif">F (916) 278-2281</font><br /><font size="3" face="arial,helvetica,sans-serif"><span style="font-size: 11.0pt; color: #0563c1;"><a href="http://www.csus.edu/edd">www.csus.edu/edd</a><a href="http://www.csus.edu/edd"><br /></a></span><span style="font-size: 11.0pt; color: black;">Connect with us on </span><a href="https://www.facebook.com/Sac-State-Doctorate-in-Educational-Leadership-236410397159/"><span style="font-size: 11.0pt; color: #0563c1;">Facebook</span></a><span style="font-size: 11.0pt; color: black;"> and </span><a href="https://twitter.com/SacStateEDD?ref_src=twsrc%5Etfw"><span style="font-size: 11.0pt; color: #0563c1;">Twitter</span></a><span style="font-size: 11.0pt; color: black;"> | &nbsp;</span><a href="https://sacstatedd.wordpress.com/"><span style="font-size: 11.0pt; color: #0563c1;">Sac StatEDD</span></a> blog</font></p>
@@ -62,7 +61,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>377e9b9c0fa7fa0012e4348ce1050e5f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>New EDD Prospect Submission</sys_name>
         <sys_overrides/>
         <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
@@ -71,7 +70,7 @@
         <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
         <sys_update_name>sysevent_email_action_377e9b9c0fa7fa0012e4348ce1050e5f</sys_update_name>
         <sys_updated_by>gg622</sys_updated_by>
-        <sys_updated_on>2017-06-29 17:02:53</sys_updated_on>
+        <sys_updated_on>2017-06-29 17:13:37</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
