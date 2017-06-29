@@ -53,7 +53,7 @@
         <sys_created_on>2017-06-20 17:01:25</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>2111271c6f6bfa00ad6cd4a21c3ee4f5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Sent Autoresponse 1 Email</sys_name>
         <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
         <sys_policy/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
         <sys_update_name>sys_dictionary_x_casus_edd_prog_edd_prospect_email_sent_ar_1</sys_update_name>
         <sys_updated_by>nicholasmyers</sys_updated_by>
-        <sys_updated_on>2017-06-28 20:17:12</sys_updated_on>
+        <sys_updated_on>2017-06-29 16:32:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

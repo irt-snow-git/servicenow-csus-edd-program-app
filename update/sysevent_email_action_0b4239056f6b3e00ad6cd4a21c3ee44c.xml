@@ -17,7 +17,7 @@
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
         <force_delivery>false</force_delivery>
-        <from>edd@csus.edu</from>
+        <from>Sacramento State Ed.D. Program &lt;edd@csus.edu&gt;</from>
         <generation_type>engine</generation_type>
         <group/>
         <group_field/>
@@ -29,18 +29,17 @@
         <list_field/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="sacstate_logo.jpgx" alt="Sac State Logo" width="530" height="145" align="baseline" border="" hspace="" vspace="" /></p>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="sacstate_logo.jpgx" alt="Sac State Logo" width="530" height="145" align="bottom" border="" hspace="" vspace="" /></p>
 <p><font size="3" face="helvetica">Greetings, ${first_name},</font></p>
 <p><font size="3" face="helvetica">Pursuing a doctorate is a worthy goal &ndash; one that can open up a world of opportunities for you.</font><br /> <br /><font size="3" face="helvetica"> With an Ed.D., you are prepared to become a superintendent in a school district, a university professor, a corporate executive or policymaker.&nbsp; A Doctorate of Education (Ed.D.) is a terminal degree, as is a Ph.D. earned by Doctors of Philosophy. The difference is that Ph.D.s focus on developing new research, whereas Ed.D.s are educational leaders who apply research to their organizational, leadership and educational issues.</font></p>
 <p style="text-align: center;"><font size="3" face="helvetica"> <a href="http://www.csus.edu/coe/academics/doctorate/prospective-students/whychoose-index.html">See 6 reasons students choose Sac State for their doctorate</a></font></p>
 <p><font size="3" face="helvetica"> The Sacramento State Ed.D. program was authorized to address the need for well-prepared administrators to lead California&rsquo;s public schools and community colleges. It is a unique program that links theory, research and practice that is directly relevant to regional needs.</font></p>
 <p><font size="3" face="helvetica"><strong>Career advancement</strong></font><br /> <br /><font size="3" face="helvetica"> One very valid reason to pursue a doctorate is to open up career opportunities. &nbsp;A faculty position at a university, school superintendency, research position and other education policy leadership positions may be out of reach without a doctorate.</font><br /> <br /><font size="3" face="helvetica"> Just 1.8 percent of the U.S. population has a doctorate, according to a 2014 estimate by the U.S. Census Bureau. That rarity puts you in a desirable and very employable category. In fact, California school administrators earned, on average, more than <a href="http://www.labormarketinfo.edd.ca.gov/lmid/oes_employment_and_wages.html">$100,000 a year</a> during 2014.</font></p>
-<p>&nbsp;<img style="align: baseline;" title="" src="edd_chart.jpgx" alt="Average California Educator Salaries Chart" width="619" height="431" align="baseline" border="" hspace="" vspace="" /></p>
+<p>&nbsp;<img style="align: baseline;" title="" src="edd_chart.jpgx" alt="Average California Educator Salaries Chart" width="619" height="431" align="bottom" border="" hspace="" vspace="" /></p>
 <p><font size="3" face="helvetica"><strong>What a doctorate does for your employability</strong></font><br /> <br /><font size="3" face="helvetica"> The amount of reading, summarizing and writing you&rsquo;ll do during your doctoral studies cannot help but make you a better project manager, supervisor or multitasker.</font><br /> <br /><font size="3" face="helvetica"> Your experience as a researcher &ndash; collecting, analyzing and interpreting data &ndash; will be invaluable to an employer in a world driven by ROI and data-driven decision-making.</font><br /> <br /><font size="3" face="helvetica"> For the first seven cohorts of the Sacramento State Ed.D. program, an average of 28 percent received a promotion while still in the program, and 79 percent expected to receive a promotion after graduation. See the <a href="http://www.csus.edu/coe/academics/doctorate/prospective-students/whychoose-index.html">6 best reasons to choose Sacramento State</a> for your doctorate.</font><br /> <br /><font size="3" face="helvetica"> <strong>Are you cut out to be an Ed.D.?</strong></font><br /> <br /><font size="3" face="helvetica"> To find out if you have what it takes to be a Doctor of Education &ndash; a transformational leader who can make change happen in your organization &ndash; join us at one of our monthly information sessions. See the schedule and RSVP at <a href="http://bit.ly/SacStateDoc">bit.ly/SacStateDoc</a>.</font></p>
 <p><font size="3" face="helvetica"> Please call our office at 916-278-2282 if you have any questions, or email us at <a href="mailto:EDD@csus.edu">EDD@csus.edu</a>. We look forward to getting to know you better.</font></p>
 <p>&nbsp;</p>
 <p><font size="3" face="arial,helvetica,sans-serif">Sacramento State Doctorate in Educational Leadership</font><br /> <font size="3" face="arial,helvetica,sans-serif">California State University, Sacramento</font><br /> <font size="3" face="arial,helvetica,sans-serif">Eureka Hall 318</font><font size="3" face="arial,helvetica,sans-serif">6000 J Street</font><br /><font size="3" face="arial,helvetica,sans-serif">Sacramento, CA 95819</font><br /><font size="3" face="arial,helvetica,sans-serif">T (916) 278-2282</font><br /><font size="3" face="arial,helvetica,sans-serif">F (916) 278-2281</font><br /><font size="3" face="arial,helvetica,sans-serif"><span style="font-size: 11.0pt; color: #0563c1;"><a href="http://www.csus.edu/edd">www.csus.edu/edd</a><a href="http://www.csus.edu/edd"><br /></a></span><span style="font-size: 11.0pt; color: black;">Connect with us on </span><a href="https://www.facebook.com/Sac-State-Doctorate-in-Educational-Leadership-236410397159/"><span style="font-size: 11.0pt; color: #0563c1;">Facebook</span></a><span style="font-size: 11.0pt; color: black;"> and </span><a href="https://twitter.com/SacStateEDD?ref_src=twsrc%5Etfw"><span style="font-size: 11.0pt; color: #0563c1;">Twitter</span></a><span style="font-size: 11.0pt; color: black;"> | &nbsp;</span><a href="https://sacstatedd.wordpress.com/"><span style="font-size: 11.0pt; color: #0563c1;">Sac StatEDD</span></a> blog</font></p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
@@ -61,10 +60,10 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>nicholasmyers</sys_created_by>
         <sys_created_on>2017-06-22 16:35:58</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0b4239056f6b3e00ad6cd4a21c3ee44c</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>EDD Inquiries after a Month</sys_name>
         <sys_overrides/>
         <sys_package display_value="EDD Program" source="x_casus_edd_prog">72fd291f0f11e20012e4348ce1050e49</sys_package>
@@ -73,7 +72,7 @@
         <sys_scope display_value="EDD Program">72fd291f0f11e20012e4348ce1050e49</sys_scope>
         <sys_update_name>sysevent_email_action_0b4239056f6b3e00ad6cd4a21c3ee44c</sys_update_name>
         <sys_updated_by>gg622</sys_updated_by>
-        <sys_updated_on>2017-06-22 17:18:06</sys_updated_on>
+        <sys_updated_on>2017-06-29 17:04:58</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
