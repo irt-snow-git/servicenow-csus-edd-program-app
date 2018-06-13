@@ -18,7 +18,6 @@
         <element label="Phone" max_length="40" name="phone" type="string"/>
         <element choice="1" label="How did you hear about us?" max_length="40" name="question_1" type="choice">
             <choice>
-                <element label="Through your website" sequence="0" value="Through your website"/>
                 <element label="Email from you" sequence="1" value="Email from you"/>
                 <element label="Google Search" sequence="2" value="Google Search"/>
                 <element label="Facebook" sequence="3" value="Facebook"/>
@@ -28,7 +27,8 @@
                 <element label="Sac State student/alumni/faculty" sequence="7" value="Sac State student/alumni/faculty"/>
                 <element label="Friend or colleague" sequence="8" value="Friend or colleague"/>
                 <element label="Visit to Sac State" sequence="9" value="Visit to Sac State"/>
-                <element label="Other" sequence="10" value="Other"/>
+                <element label="Aware of program, searched csus.edu" sequence="10" value="Through your website"/>
+                <element label="Other" sequence="11" value="Other"/>
             </choice>
         </element>
         <element choice="1" default="PK-12" label="Specialization" max_length="40" name="specialization" type="choice">
@@ -54,6 +54,7 @@
                 <element label="Website Inquiry" sequence="8" value="Website Inquiry"/>
                 <element label="Nominated" sequence="9" value="Nominated"/>
                 <element label="Application withdrawn" sequence="10" value="Application withdrawn"/>
+                <element label="Denied" sequence="11" value="Denied"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Employer" max_length="40" name="u_string_1" type="string"/>
